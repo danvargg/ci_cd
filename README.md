@@ -1,3 +1,3 @@
-![](https://github.com/danvargg/ci_cd/workflows/pipeline/badge.svg)
+![](https://github.com/danvargg/ci_cd/actions/workflows/pipeline/badge.svg)
 
 # CI / CD tests

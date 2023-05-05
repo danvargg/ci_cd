@@ -4,3 +4,6 @@ pip
 pylint
 pytest
 pytest-flask
+psycopg2
+faker
+tabulate
